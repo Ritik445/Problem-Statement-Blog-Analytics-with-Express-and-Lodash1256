@@ -1,0 +1,1 @@
+for error handling add try-catch blocks within the /api/blog-search route
